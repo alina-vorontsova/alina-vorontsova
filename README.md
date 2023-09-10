@@ -1,5 +1,5 @@
 <h3 align="center"> 
-    Hi there! My name is Alina and i'm a newbie in software development. 
+    Hi there! My name is Alina and i'm a newbie in Python-development. 
 </h3>
   
 <p align="center">
