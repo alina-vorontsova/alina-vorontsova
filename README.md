@@ -7,11 +7,11 @@
   <a href="https://t.me/freyjavanadis">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/vorontsova-alina/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
+  </a>
   <a href="https://instagram.com/freyjavanadis">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>
- <a href="https://leetcode.com/vorontsova-alina/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />        
   </a>
   
 </p>
