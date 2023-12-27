@@ -1,7 +1,10 @@
 ## Hi there! My name is Alina and I'm a Junior Python Developer.  
 
 ### Work experience:
-#### Since September, 2023 I am on an exciting and advantageos trip of internship at EdTech startup [xi.effect](https://xieffect.ru/).
+
+#### Since December 2023, I am a proud member of Placebo/25 Development Team. 
+
+#### Since September 2023, I am on an exciting and advantageos trip of internship at EdTech startup [xi.effect](https://xieffect.ru/).
 
 ### My stack:
 * Python
