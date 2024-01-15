@@ -2,7 +2,7 @@
 
 ### Work experience:
 
-#### Since December 2023, I am a proud member of [Placebo/25](https://placebo25.com/) Development Team. 
+#### Since December 2023, I am a proud member of [Placebo/25](https://placebo25.com/) Development Team (therefore my coding activity is private now). 
 
 #### Since September 2023, I am on an exciting and advantageos trip of internship at EdTech startup [xi.effect](https://xieffect.ru/).
 
