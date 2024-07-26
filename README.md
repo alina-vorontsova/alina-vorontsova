@@ -1,4 +1,4 @@
-## Hi there! My name is Alina and I'm a Junior Python Developer.  
+## Hi there! My name is Alina and I'm a Python Developer.  
 
 ### Work experience:
 
