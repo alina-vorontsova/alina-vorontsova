@@ -19,6 +19,4 @@
 * also a bit of nginx, gunicorn, CI/CD processes 
 * Russian native, English C1, German C1
 
-![](https://github-readme-stats.vercel.app/api?username=alina-vorontsova&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
-
 [![](https://visitcount.itsvg.in/api?id=alina-vorontsova&icon=0&color=0)](https://visitcount.itsvg.in)
