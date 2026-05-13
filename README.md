@@ -1,22 +1,32 @@
-## Hi there! My name is Alina and I'm a Python Developer.  
+### hi there! my name's alina, i'm a python backend developer and an ai enthusiast 
+---
+### work experience:
 
-### Work experience:
+may 2026 - present: ai agents backend developer at [sber](https://www.sberbank.ru/)
 
-#### Since December 2023, I am a proud member of [Placebo/25](https://placebo25.com/) Development Team (therefore my coding activity is private now). 
+december 2023 - january 2026: python backend developer at [pacebo/25](https://placebo25.com/)
 
-#### Since September 2023 till January 2024, I was on an exciting and advantageos trip of internship at EdTech startup [xi.effect](https://xieffect.ru/).
+september 2023 - january 2024: intern python backend developer at edtech startup [sovlium](https://sovlium.ru/)
 
-### My stack:
-* Python
-* Django, DRF
-* Flask, Flask-ReSTX
-* Socket.IO
-* SQLAlchemy, PostgreSQL, MySQL
-* Celery, Redis
-* Aiohttp, Asyncio
-* Docker
-* Git
-* nginx, gunicorn
-* Russian native, English C1, German C1
+---
+### stack:
 
-[![](https://visitcount.itsvg.in/api?id=alina-vorontsova&icon=0&color=0)](https://visitcount.itsvg.in)
+python 
+
+fastapi / django / drf / flask
+
+rest api  / websockets
+
+asyncio / aiohttp / aiogram / celery
+
+sqlalchemy / django orm 
+
+postgresql / redis 
+
+docker 
+
+nginx / supervisor
+
+pytest / unittest
+
+russian native / english C1 / german C1
